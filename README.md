@@ -16,10 +16,10 @@ while True:
     sleep(500)
     display.show(Image( #Little Heart
         "00000:"
-        "09900:"
-        "99900:"
-        "09999:"
-        "09990"))
+        "09090:"
+        "09990:"
+        "00900:"
+        "00000"))
     sleep(500)
 ```
 Each of the numbers 0 - 9 control the brightness of an LED on the display. 0 is fully off and 9 is fully lit. The `sleep()` function takes one argument that specifies how long in milliseconds the program will wait before it executes then next line of code. 1000 milliseconds is the same as 1 second.
