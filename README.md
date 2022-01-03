@@ -24,7 +24,8 @@ while True:
 ```
 Each of the numbers 0 - 9 control the brightness of an LED on the display. 0 is fully off and 9 is fully lit. The `sleep()` function takes one argument that specifies how long in milliseconds the program will wait before it executes then next line of code. 1000 milliseconds is the same as 1 second.
 
-You may find slides 1 - 16 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment. If you are working at home, you can use the [microbit online simulator](https://create.withcode.uk/)
+You may find slides 1 - 16 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment. If you are working at home, you can use the [microbit online simulator](https://create.withcode.uk/)   
+
 Program requirements
 -----------------
 * Your program must use at least two original Images that you create
