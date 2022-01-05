@@ -1,7 +1,7 @@
 micro:bit Animation
 --------------------
 In this assignment you will program your own original animation using the micro:bit LED dispaly. Here is an example of animation that shows a beating heart:    
-![](MicroBitBeatingHeart.gif)   
+![](DonovanLEDanimation.gif)   
 To code your animation you will use the functions `display.show()`, `Image()` and `sleep()`. Here's some sample code that makes the beating heart animation:
 ```python
 from microbit import *
