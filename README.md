@@ -36,7 +36,7 @@ Suggested steps to completing this assignment
 2. Take a video of your animation running
 3. Convert the video to an animated gif (see below and slides 26 - 32 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) that is smaller than 25Mb
 4. Submit the video to google classroom
-5. Submit the code to google classroom (see slides 31 - 33 of the [slide presentation] (https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing))
+5. Submit the code to google classroom (see slides 31 - 33 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing))
 
 Make a short video (under 10 seconds and smaller than 25MB)
 -----------------------------------------------------------
