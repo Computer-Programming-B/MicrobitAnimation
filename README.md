@@ -24,17 +24,21 @@ while True:
 ```
 Each of the numbers 0 - 9 control the brightness of an LED on the display. 0 is fully off and 9 is fully lit. The `sleep()` function takes one argument that specifies how long in milliseconds the program will wait before it executes then next line of code. 1000 milliseconds is the same as 1 second.
 
-You may find slides 1 - 16 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment. If you are working at home, you can use the [microbit online simulator](https://create.withcode.uk/)   
+You may find slides 1 - 33 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment. If you are working at home, you can use the [microbit online simulator](https://create.withcode.uk/)   
 
 Program requirements
 -----------------
-* Your program must use at least two original Images that you create
+* Your program must use at least two original Images that you create 
 * Your program must use the `sleep()` function to animate the images
 * You will need to submit the Python code and video (see below) in the form of an animated gif showing your program running
 
 Suggested steps to completing this assignment
 ----------
-1. TBD
+1. Create an animation that has at least two images you have created using [DIY images](https://microbit-micropython.readthedocs.io/en/v1.0.1/tutorials/images.html#diy-images)
+2. Take a video of your animation running
+3. Convert the video to an animated gif (see below and slides 26 - 32 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) that is smaller than 25Mb
+4. Submit the video to google classroom
+5. Submit the code to google classroom (see slides 31 - 33 of the [slide presentation] (https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing))
 
 Make a short video (under 10 seconds and smaller than 25MB)
 -----------------------------------------------------------
