@@ -51,5 +51,6 @@ Samples of Student Work
 [Donovan](DonovanLEDanimation.gif)   
 [Kathy](KathyLEDanimation.gif)    
 [Douglas](DouglasLEDanimation.gif)   
+[Joseph](JosephLEDanimation.gif)   
   
 
