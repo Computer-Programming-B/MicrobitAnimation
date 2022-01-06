@@ -48,6 +48,7 @@ Samples of Student Work
 ----------
 [Stephanie](StephanieLEDanimation.GIF)   
 [Justin](JustinLEDanimation.gif)   
+[Kaitlyn](KaitlynLEDanimation.GIF)   
 [Isaac](IsaccLEDanimation.GIF)   
 [Margaux](MargauxLEDanimation.gif)   
 [Yangyang](YangyangLEDanimation.gif)   
