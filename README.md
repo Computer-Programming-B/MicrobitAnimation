@@ -54,6 +54,7 @@ Samples of Student Work
 [Calvin](CalvinLEDanimation.gif)   
 [Jolina](JolinaLEDanimation.gif)   
 [Thomas](ThomasLEDanimation.gif)   
+[Jordan](JordanLEDanimation.gif)   
 [Margaux](MargauxLEDanimation.gif)   
 [Yangyang](YangyangLEDanimation.gif)   
 [Tennyson](TennysonLEDanimation.gif)   
