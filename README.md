@@ -49,6 +49,7 @@ Samples of Student Work
 [Isaac](IsaccLEDanimation.GIF)   
 [Margaux](MargauxLEDanimation.gif)   
 [Yangyang](YangyangLEDanimation.gif)   
+[Tennyson](TennysonLEDanimation.gif)   
 [Allison](AllisonLEDanimation.gif)   
 [Donovan](DonovanLEDanimation.gif)   
 [Kathy](KathyLEDanimation.gif)    
