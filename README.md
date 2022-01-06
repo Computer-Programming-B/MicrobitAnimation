@@ -51,7 +51,7 @@ Samples of Student Work
 [Justin](JustinLEDanimation.gif)   
 [Kaitlyn](KaitlynLEDanimation.GIF)   
 [Isaac](IsaccLEDanimation.GIF)   
-[Thomas](ThomasLEDanimation.gif)
+[Thomas](ThomasLEDanimation.gif)   
 [Margaux](MargauxLEDanimation.gif)   
 [Yangyang](YangyangLEDanimation.gif)   
 [Tennyson](TennysonLEDanimation.gif)   
