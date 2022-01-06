@@ -55,6 +55,7 @@ Samples of Student Work
 [Naomi](NaomiLEDanimation.gif)   
 [Jolina](JolinaLEDanimation.gif)   
 [Thomas](ThomasLEDanimation.gif)      
+[Cathy](CathyblinkingEye.gif)   
 [Charlene](CharleneLEDanimation.gif)   
 [Jordan](JordanLEDanimation.gif)   
 [Margaux](MargauxLEDanimation.gif)   
