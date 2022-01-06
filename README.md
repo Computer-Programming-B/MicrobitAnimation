@@ -47,9 +47,11 @@ Convert the video to an animated gif using a free converter like [ezgif.com](htt
 Samples of Student Work
 ----------
 [Stephanie](StephanieLEDanimation.GIF)   
+[Alyssa](AlyssaLEDanimation.GIF)   
 [Justin](JustinLEDanimation.gif)   
 [Kaitlyn](KaitlynLEDanimation.GIF)   
 [Isaac](IsaccLEDanimation.GIF)   
+[Thomas](ThomasLEDanimation.gif)
 [Margaux](MargauxLEDanimation.gif)   
 [Yangyang](YangyangLEDanimation.gif)   
 [Tennyson](TennysonLEDanimation.gif)   
