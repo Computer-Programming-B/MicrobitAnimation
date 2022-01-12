@@ -48,6 +48,7 @@ Samples of Student Work
 ----------
 [Jasmine](JasmineLEDnotes.gif)   
 [Stephanie](StephanieLEDanimation.GIF)   
+[Breanna](BreannaFlower.gif)   
 [Dylan](Dylancat.gif)   
 [Pansy](PansymicrobitAnimation.gif)   
 [Alyssa](AlyssaLEDanimation.GIF)   
