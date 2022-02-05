@@ -38,7 +38,7 @@ Suggested steps to completing this assignment
 4. Submit the video to google classroom
 5. Submit the code to google classroom (see slides 31 - 33 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing))
 
-Make a short video (under 10 seconds and smaller than 25MB)
+Make a short video smaller than 25MB
 -----------------------------------------------------------
 When you are happy with your program, use your cellphone camera to make a short video of your program running on the micro:bit. The video need only show your micro:bit running, please don't include anyone's face in the video. See the samples of student work below for examples.   
 
